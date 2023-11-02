@@ -17,7 +17,7 @@
       </p>
     </td>
     <td width=50% align="right">
-      <img  width="100%" src="https://github.com/DAVIGSOUZA/DAVIGSOUZA/assets/69723573/b2498bc3-d48e-4dee-8a5e-8b595f8212c1">
+      <img src="https://github.com/DAVIGSOUZA/DAVIGSOUZA/assets/69723573/b2498bc3-d48e-4dee-8a5e-8b595f8212c1">
     </td> 
   </tr>
   <tr>
