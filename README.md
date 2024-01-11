@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, !'m David 👋</h1>
+<h1 align="center">Hello there, I'm David 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Self-taught+Front-End+Developer,;Crafting+dreams+one+code+at+a+time,;Closing+the+gap+between+pixels+and+possibilities,;Learning+for+life"></a>
